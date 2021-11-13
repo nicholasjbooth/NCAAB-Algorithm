@@ -1,0 +1,1 @@
+{"ast":null,"code":"const API_ENDPOINT = \"http://localhost:5000\";\nexport default API_ENDPOINT;","map":null,"metadata":{},"sourceType":"module"}

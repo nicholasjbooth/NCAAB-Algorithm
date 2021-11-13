@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/endpoint": "pages/api/endpoint.js",
+  "/api/teams": "pages/api/teams.js",
+  "/": "pages/index.html",
+  "/settings": "pages/settings.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default API_ENDPOINT = \"http://localhost:5000/\";","map":{"version":3,"sources":["C:/Users/james/OneDrive/Projects/ncaab/ncaab-frontend/pages/api/endpoint.js"],"names":["API_ENDPOINT"],"mappings":"AAAA,eAAeA,YAAY,GAAG,wBAA9B","sourcesContent":["export default API_ENDPOINT = \"http://localhost:5000/\""]},"metadata":{},"sourceType":"module"}
