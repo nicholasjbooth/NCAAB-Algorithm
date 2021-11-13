@@ -1,0 +1,3 @@
+How to run ncaab algo
+1. Double click start.bat
+2. From front end folder, CMD > npm start
